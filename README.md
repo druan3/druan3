@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Donghu/Dong/Don,
+## Hi there 👋, I'm Dong/Don/Donghu,
 
 I'm a 2015 CS graduate currently learning Python and building real-world tools.
 
